@@ -1,0 +1,6 @@
+{"_id":{"$oid":"5e7591072347b878fe414bae"},"title":"超市/便利店","des":"日用百货送到家","img":"/images/121.png","detail":{"auth":"超市/便利店","content":"跳转到天猫超市App","auth_icon":"/upload/121.png"}}
+{"_id":{"$oid":"5e7591072347b878fe414baf"},"title":"生鲜果蔬","des":"不出门买新鲜菜","img":"/images/122.png","detail":{"auth":"生鲜果蔬","content":"要跳转到不出门买新鲜菜App","auth_icon":"/upload/122.png"}}
+{"_id":{"$oid":"5e7591072347b878fe414bb0"},"title":"美团专送","des":"精选品牌好店","img":"/images/123.png","detail":{"auth":"美团专送","content":"要跳转到美团外卖App","auth_icon":"/upload/123.png"}}
+{"_id":{"$oid":"5e7591072347b878fe414bb1"},"title":"送药上门","des":"呵护健康每一天","img":"/images/124.png","detail":{"auth":"送药上门","content":"要跳转到呵护健康每一天App","auth_icon":"/upload/124.png"}}
+{"_id":{"$oid":"5e7591072347b878fe414bb2"},"title":"川湘菜","des":"购货啦才带劲","img":"/images/125.png","detail":{"auth":"川湘菜","content":"要跳转到购货啦才带劲App","auth_icon":"/upload/125.png"}}
+{"_id":{"$oid":"5e7591072347b878fe414bb3"},"title":"炸鸡披萨","des":"酥脆香嫩吃不停","img":"/images/126.png","detail":{"auth":"炸鸡披萨","content":"要跳转到酥脆香嫩吃不停App","auth_icon":"/upload/126.png"}}

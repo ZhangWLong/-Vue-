@@ -1,0 +1,6 @@
+{"_id":{"$oid":"5e75947b2347b878fe414bbc"},"title":"大牌女装","des":"不止5折","img":"/images/141.png","detail":{"auth":"大牌女装","content":"跳转到女装App","auth_icon":"/upload/141.png"}}
+{"_id":{"$oid":"5e75947b2347b878fe414bbd"},"title":"家居百货","des":"满200减20","img":"/images/142.png","detail":{"auth":"家居百货","content":"要跳转到百货店App","auth_icon":"/upload/142.png"}}
+{"_id":{"$oid":"5e75947b2347b878fe414bbe"},"title":"户外运动","des":"超级补贴","img":"/images/143.png","detail":{"auth":"户外运动","content":"要跳转到超级补贴App","auth_icon":"/upload/143.png"}}
+{"_id":{"$oid":"5e75947b2347b878fe414bbf"},"title":"超市购物","des":"无接触配送","img":"/images/144.png","detail":{"auth":"超市购物","content":"要跳转到超市购物App","auth_icon":"/upload/144.png"}}
+{"_id":{"$oid":"5e75947b2347b878fe414bc0"},"title":"吃大餐不出门","des":"外卖","img":"/images/145.png","detail":{"auth":"吃大餐不出门","content":"要跳转到外卖App","auth_icon":"/upload/145.png"}}
+{"_id":{"$oid":"5e75947b2347b878fe414bc1"},"title":"推荐爆款榜","des":"推荐页面","img":"/images/146.png","detail":{"auth":"推荐爆款榜","content":"要跳转到推荐页面App","auth_icon":"/upload/146.png"}}

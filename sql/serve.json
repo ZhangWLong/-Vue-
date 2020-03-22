@@ -1,0 +1,10 @@
+{"_id":{"$oid":"5e70d98d06a19de8c21e093c"},"title":"外卖","icomfont":"&#xe504;","detail":{"auth":"外卖","content":"跳转到外卖关联App","auth_icon":"/upload/default.jpg"}}
+{"_id":{"$oid":"5e70d98d06a19de8c21e093d"},"title":"快递","icomfont":"&#xe633;","detail":{"auth":"快递","content":"跳转到顺丰快递App","auth_icon":"/upload/default.jpg"}}
+{"_id":{"$oid":"5e70d98d06a19de8c21e093e"},"title":"充值中心","icomfont":"&#xe623;","detail":{"auth":"充值中心","content":"跳转到充值中心","auth_icon":"/upload/default.jpg"}}
+{"_id":{"$oid":"5e70d98d06a19de8c21e093f"},"title":"本地服务","icomfont":"&#xe614;","detail":{"auth":"本地服务","content":"跳转到本地服务","auth_icon":"/upload/default.jpg"}}
+{"_id":{"$oid":"5e70d98d06a19de8c21e0940"},"title":"全球购","icomfont":"&#xe508;","detail":{"auth":"全球购","content":"跳转到网购关联App","auth_icon":"/upload/default.jpg"}}
+{"_id":{"$oid":"5e70d98d06a19de8c21e0941"},"title":"火车票","icomfont":"&#xe508;","detail":{"auth":"火车票","content":"跳转到12306","auth_icon":"/upload/default.jpg"}}
+{"_id":{"$oid":"5e70d98d06a19de8c21e0942"},"title":"机票","icomfont":"&#xe677;","detail":{"auth":"机票","content":"跳转到飞猪App","auth_icon":"/upload/default.jpg"}}
+{"_id":{"$oid":"5e70d98d06a19de8c21e0943"},"title":"酒店","icomfont":"&#xe628;","detail":{"auth":"酒店","content":"跳转到飞猪App","auth_icon":"/upload/default.jpg"}}
+{"_id":{"$oid":"5e70d98d06a19de8c21e0944"},"title":"海外酒店","icomfont":"&#xe634;","detail":{"auth":"海外酒店","content":"跳转到飞猪App","auth_icon":"/upload/default.jpg"}}
+{"_id":{"$oid":"5e70d98d06a19de8c21e0945"},"title":"电影","icomfont":"&#xe504;","detail":{"auth":"电影","content":"跳转到猫眼电影app","auth_icon":"/upload/default.jpg"}}
